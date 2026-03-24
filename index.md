@@ -6,7 +6,7 @@ title: Home
 # The First International Workshop on Pedagogical Evaluation of Automated Feedback (PEAF 2026)
 
 **Date:** 28th or 29th June 2026
-**Venue:** COEX Convention and Exhibition Center, South Korea — co-located with The Festival of Learing 2026 (AIED, EDM and Learning@Scale)
+**Venue:** COEX Convention and Exhibition Center, South Korea — co-located with The Festival of Learning 2026 (AIED, EDM and Learning@Scale)
 
 ---
 
