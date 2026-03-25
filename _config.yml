@@ -1,0 +1,43 @@
+# -----------------------------------------------
+# PEAF2026 — Jekyll Configuration
+# -----------------------------------------------
+
+title: "PEAF 2026"
+tagline: "Pedagogical Evaluation of Automated Feedback"
+description: >-
+  The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026)
+  brings together researchers and practitioners working at the intersection of
+  automated feedback systems and educational assessment.
+
+url: "https://peaf-workshop.github.io"
+baseurl: "/2026"
+
+# Remote theme: Minima v3 (supports skins and nav_pages)
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+minima:
+  skin: classic   # Options: classic | dark | auto | solarized
+  header_pages:
+    - index.md
+    - important-dates.md
+    - call-for-papers.md
+    - submission.md
+    - program.md
+    - speakers.md
+    - organizers.md
+
+author:
+  name: "PEAF 2026 Organizers"
+  email: "peaf2026@example.com"
+
+# Disable blog features
+show_excerpts: false
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
