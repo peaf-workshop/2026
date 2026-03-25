@@ -23,11 +23,9 @@ minima:
   skin: classic   # Options: classic | dark | auto | solarized
   header_pages:
     - index.md
-    - important-dates.md
-    - call-for-papers.md
-    - submission.md
     - program.md
-    - speakers.md
+    - call-for-papers.md
+    - important-dates.md
     - organizers.md
 
 author:

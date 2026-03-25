@@ -30,9 +30,22 @@ Submissions must follow the **CEUR-WS format**.
 - Template: [CEUR-WS LaTeX / Word template](https://ceur-ws.org/HOWTOSUBMIT.html)
 - Maximum length: **4 pages** (including references)
 
-## Submission Portal
+## How to Submit
+
+Submissions must:
+
+1. Be **extended abstracts of up to 4 pages** (including references).
+2. Follow the **CEUR-WS formatting template** (see Formatting above).
+3. Be submitted as a single **PDF**.
+4. Not be under simultaneous review at another venue.
 
 Submissions are handled via **EasyChair**: [link — to be announced]
+
+## Proceedings
+
+All accepted submissions will be published in [CEUR-WS](https://ceur-ws.org/) proceedings — a free, open-access publishing service widely indexed in DBLP and Scopus.
+
+Camera-ready instructions will be sent to authors upon acceptance notification.
 
 ## Questions
 
