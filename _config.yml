@@ -22,15 +22,14 @@ plugins:
 minima:
   skin: classic   # Options: classic | dark | auto | solarized
   header_pages:
-    - index.md
     - program.md
     - call-for-papers.md
     - important-dates.md
     - organizers.md
 
 author:
-  name: "PEAF 2026 Organizers"
-  email: "peaf2026@example.com"
+  name: "PEAF 2026 Organisers"
+  email: "m.messer@imperial.ac.uk"
 
 # Disable blog features
 show_excerpts: false

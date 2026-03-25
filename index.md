@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 ---
 
 # The First International Workshop on Pedagogical Evaluation of Automated Feedback (PEAF 2026)
