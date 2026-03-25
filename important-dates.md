@@ -6,12 +6,11 @@ permalink: /important-dates/
 
 All deadlines are **Anywhere on Earth (AoE, UTC-12)**.
 
-| Event | Date |
-|---|---|
-| Abstract registration deadline | TBD |
-| Full paper submission deadline | TBD |
-| Notification of acceptance | TBD |
-| Camera-ready deadline | TBD |
-| Workshop date | TBD |
+| Event                      | Date           |
+|----------------------------|----------------|
+| Paper submission deadline  | 31st May 2026  |
+| Notification of acceptance | 7th June 2026  |
+| Camera-ready deadline      | 21st June 2026 |
+| Workshop date              | 28th June 2026 |
 
 *Dates are subject to change. Check back regularly.*

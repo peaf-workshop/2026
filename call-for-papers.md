@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /call-for-papers/
 ---
 
-PEAF 2026 invites submissions on the pedagogical evaluation of automated feedback systems in educational settings. We particularly welcome submissions from early-stage work and encourage shorter submissions within the page limit.
+PEAF 2026 invites submissions on the pedagogical evaluation of automated feedback systems in educational settings. We particularly welcome submissions from early-stage work and position papers, and encourage shorter submissions within the page limit.
 
 ## Submission Type
 
@@ -27,7 +27,7 @@ The workshop covers themes across the wider education domain. We welcome submiss
 
 Submissions must follow the **CEUR-WS format**.
 
-- Template: [CEUR-WS LaTeX / Word template](https://ceur-ws.org/HOWTOSUBMIT.html)
+- Template: [CEUR-WS LaTeX / Word template](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)
 - Maximum length: **4 pages** (including references)
 
 ## How to Submit
@@ -39,7 +39,7 @@ Submissions must:
 3. Be submitted as a single **PDF**.
 4. Not be under simultaneous review at another venue.
 
-Submissions are handled via **EasyChair**: [link — to be announced]
+Submissions are handled via **EasyChair**: [here](https://easychair.org/conferences/?conf=peaf2026).
 
 ## Proceedings
 
