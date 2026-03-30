@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Pedagogical Evaluation of Automated Feedback Workshop 2026"
 ---
 
 **Date:** 28th or 29th June 2026
