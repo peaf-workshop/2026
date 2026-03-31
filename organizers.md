@@ -49,7 +49,7 @@ Prarthana Bhattacharyy develops machine learning models and algorithms that impr
 Their work combines educational and generative AI with practical MLOps to deliver measurable impact for students and educators. 
 Recently, they have been working on misconception diagnosis from student-tutor dialog, and benchmarking knowledge tracing models against LLMs.
 
-Website: https://prarthanabhattacharyya.github.io/
+Website: [https://prarthanabhattacharyya.github.io/]([https://prarthanabhattacharyya.github.io/)
 
 ---
 
