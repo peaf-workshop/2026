@@ -42,6 +42,17 @@ Jaromir Savelka's research is organised around two interconnected themes: AI for
 
 ---
 
+### Prarthana Bhattacharyya
+**Prarthana Bhattacharyya, Machine Learning Engineer, Eedi**
+
+Prarthana Bhattacharyy develops machine learning models and algorithms that improve personalized learning at scale. 
+Their work combines educational and generative AI with practical MLOps to deliver measurable impact for students and educators. 
+Recently, they have been working on misconception diagnosis from student-tutor dialog, and benchmarking knowledge tracing models against LLMs.
+
+Website: https://prarthanabhattacharyya.github.io/
+
+---
+
 ### Simon Woodhead
 **Chief Data Scientist and Co-Founder, Eedi**
 
