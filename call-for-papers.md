@@ -8,7 +8,7 @@ PEAF 2026 invites submissions on the pedagogical evaluation of automated feedbac
 
 ## Submission Type
 
-**Extended Abstracts** — up to 4 pages (including references).
+**Extended Abstracts** — up to 4 pages (exlcuding references).
 
 Submissions may be work-in-progress or position papers. All accepted submissions will be published in [CEUR-WS](https://ceur-ws.org/) proceedings, a free open-source publishing service.
 
