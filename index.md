@@ -42,4 +42,5 @@ Post-workshop, the organisers will create a mailing list to enable easy communic
 
 ## News
 
+- **2026/04/12** - Updated Call for Papers to be 4 pages excluding references.
 - **2026** — Workshop announced.
