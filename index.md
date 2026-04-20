@@ -3,7 +3,7 @@ layout: page
 title: "Pedagogical Evaluation of Automated Feedback Workshop 2026"
 ---
 
-**Date:** 29th June 2026
+**Date:** 28th June 2026
 
 **Venue:** COEX Convention and Exhibition Center, South Korea — co-located with The Festival of Learning 2026 (AIED, EDM and Learning@Scale)
 
@@ -41,7 +41,7 @@ To see the call for papers, see [Call For Papers](call-for-papers.md), and for t
 Post-workshop, the organisers will create a mailing list to enable easy communication between potential collaborators and to inform attendees of future iterations of this workshop.
 
 ## News
-- **2026/04/20** - Date Announced - 29th June 2026.
+- **2026/04/20** - Date Announced - 28th June 2026.
 - **2026/04/13** - Updated paper submission deadline.
 - **2026/04/12** - Updated Call for Papers to be 4 pages excluding references.
 - **2026** — Workshop announced.
