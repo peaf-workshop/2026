@@ -16,7 +16,6 @@ PEAF 2026 is a **full-day workshop**. The detailed schedule with accepted papers
 | **Interactive Session** | Attendees evaluate real-world examples of automated feedback from various disciplines in small groups (K-12 English and mathematics, higher education mathematics, mechanical engineering, and other STEM subjects). |
 | **Lightning Talks** | Short 5-minute presentations from participants on their submitted work, each followed by 5 minutes of Q&A. |
 | **Discussion of Presentations** | Attendees rotate around presenter tables for in-depth discussion of each submitted work. |
-| **Interactive Session (Repeat)** | Attendees revisit a sample of feedback from the earlier activity to apply insights from the lightning talks to real automated feedback. |
 | **Morning Summary** | Organisers summarise key elements of the lightning talks, discussion, and interactive sessions. |
 
 ### Afternoon
