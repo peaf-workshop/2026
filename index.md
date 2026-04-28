@@ -41,6 +41,7 @@ To see the call for papers, see [Call For Papers](call-for-papers.md), and for t
 Post-workshop, the organisers will create a mailing list to enable easy communication between potential collaborators and to inform attendees of future iterations of this workshop.
 
 ## News
+- **2026/04/28** - Updated program to remove Q&A for lighting talks, allowing more in-depth discussion time.
 - **2026/04/20** - Date Announced - 28th June 2026.
 - **2026/04/13** - Updated paper submission deadline.
 - **2026/04/12** - Updated Call for Papers to be 4 pages excluding references.

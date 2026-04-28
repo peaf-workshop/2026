@@ -10,13 +10,13 @@ PEAF 2026 is a **full-day workshop**. The detailed schedule with accepted papers
 
 ### Morning
 
-| Session | Description |
-|---|---|
-| **Welcome and Introduction** | Introduction to the workshop, including defining shared terms, an overview of current work, and emerging challenges of evaluating the pedagogical quality of automated feedback. |
+| Session | Description                                                                                                                                                                                                          |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Welcome and Introduction** | Introduction to the workshop, including defining shared terms, an overview of current work, and emerging challenges of evaluating the pedagogical quality of automated feedback.                                     |
 | **Interactive Session** | Attendees evaluate real-world examples of automated feedback from various disciplines in small groups (K-12 English and mathematics, higher education mathematics, mechanical engineering, and other STEM subjects). |
-| **Lightning Talks** | Short 5-minute presentations from participants on their submitted work, each followed by 5 minutes of Q&A. |
-| **Discussion of Presentations** | Attendees rotate around presenter tables for in-depth discussion of each submitted work. |
-| **Morning Summary** | Organisers summarise key elements of the lightning talks, discussion, and interactive sessions. |
+| **Lightning Talks** | Short 5-minute presentations from participants on their submitted work |                                                                                                                                              |
+| **Discussion of Presentations** | Attendees rotate around presenter tables for in-depth discussion of each submitted work.                                                                                                                             |
+| **Morning Summary** | Organisers summarise key elements of the lightning talks, discussion, and interactive sessions.                                                                                                                      |
 
 ### Afternoon
 
