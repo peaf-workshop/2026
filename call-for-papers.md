@@ -28,7 +28,7 @@ The workshop covers themes across the wider education domain. We welcome submiss
 Submissions must follow the **CEUR-WS format**.
 
 - Template: [CEUR-WS LaTeX / Word template](https://ceur-ws.org/happypath.html)
-- Maximum length: **4 pages** (including references)
+- Maximum length: **4 pages** (excluding references)
 
 ## How to Submit
 
