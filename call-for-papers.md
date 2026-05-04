@@ -34,7 +34,7 @@ Submissions must follow the **CEUR-WS format**.
 
 Submissions must:
 
-1. Be **extended abstracts of up to 4 pages** (including references).
+1. Be **extended abstracts of up to 4 pages** (excluding references).
 2. Follow the **CEUR-WS formatting template** (see Formatting above).
 3. Be submitted as a single **PDF**.
 4. Not be under simultaneous review at another venue.
