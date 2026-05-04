@@ -27,7 +27,7 @@ The workshop covers themes across the wider education domain. We welcome submiss
 
 Submissions must follow the **CEUR-WS format**.
 
-- Template: [CEUR-WS LaTeX / Word template](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)
+- Template: [CEUR-WS LaTeX / Word template](https://ceur-ws.org/happypath.html)
 - Maximum length: **4 pages** (including references)
 
 ## How to Submit
@@ -38,6 +38,7 @@ Submissions must:
 2. Follow the **CEUR-WS formatting template** (see Formatting above).
 3. Be submitted as a single **PDF**.
 4. Not be under simultaneous review at another venue.
+5. Be single blind (unanonymised) — author names and affiliations should be included in the submission.
 
 Submissions are handled via **EasyChair**: [here](https://easychair.org/conferences/?conf=peaf2026).
 
