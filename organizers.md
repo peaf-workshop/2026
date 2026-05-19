@@ -60,6 +60,12 @@ Simon Woodhead co-founded Eedi, an education technology platform dedicated to im
 
 ---
 
+## Program Committee
+
+- Neil C C Brown - King's College London
+- Huiyong Li - Kyushu University
+- Alexandra Neagu - Imperial College London
+
 ## Contact
 
 For general enquiries: [m.messer@imperial.ac.uk](mailto:m.messer@imperial.ac.uk)
