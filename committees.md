@@ -63,11 +63,13 @@ Simon Woodhead co-founded Eedi, an education technology platform dedicated to im
 ## Program Committee
 
 - Kamil Akhuseyinoglu - Carnegie Mellon University
+- Prarthana Bhattacharyya - Eedi
 - Christopher Bogart - Carnegie Mellon University
 - Neil C C Brown - King's College London
 - Peter B. Johnson - Imperial College London  
 - Camille Kandiko Howson - Imperial College London  
 - Huiyong Li - Kyushu University
+- Fun Siong Lim - Nanyang Technological University
 - Alexandra Neagu - Imperial College London
 - Jaromir Savelka - Carnegie Mellon University
 - Simon Woodhead - Eedi
