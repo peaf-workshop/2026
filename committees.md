@@ -66,6 +66,7 @@ Simon Woodhead co-founded Eedi, an education technology platform dedicated to im
 - Prarthana Bhattacharyya - Eedi
 - Christopher Bogart - Carnegie Mellon University
 - Neil C C Brown - King's College London
+- Andrew Garrard - University of Sheffield 
 - Peter B. Johnson - Imperial College London  
 - Camille Kandiko Howson - Imperial College London  
 - Huiyong Li - Kyushu University
