@@ -23,6 +23,7 @@ minima:
   skin: classic   # Options: classic | dark | auto | solarized
   header_pages:
     - program.md
+    - accepted-papers.md
     - call-for-papers.md
     - important-dates.md
     - committees.md
