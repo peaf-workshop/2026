@@ -21,10 +21,9 @@ Then open http://localhost:4000/2026/
 | `index.md` | Home / About |
 | `important-dates.md` | Important Dates |
 | `call-for-papers.md` | Call for Papers |
-| `submission.md` | Submission |
-| `program.md` | Program |
-| `speakers.md` | Speakers |
-| `organizers.md` | Organizers |
+| `committees.md` | Committees |
+| `program.md` | Program (includes lightning talk order) |
+| `accepted-papers.md` | Accepted Papers |
 
 ## GitHub Pages Setup
 
