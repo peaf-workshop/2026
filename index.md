@@ -34,7 +34,7 @@ Attendees can expect to:
 - Generate discussion on how to research and evaluate the pedagogical quality of automated feedback for learning, producing a set of research priorities
 - Explore and identify key challenges and limitations on the pedagogical quality of automated feedback
 - Find new connections with potential collaborators for cross-institutional and interdisciplinary research
-- Access published proceedings of extended abstracts on work-in-progress and position papers
+- Access published proceedings of short papers on work-in-progress and position papers
 
 To see the call for papers, see [Call For Papers](call-for-papers.md), and for the program for the day, see [Program](#program).
 
