@@ -69,10 +69,10 @@ Karen D. Wang<sup>1</sup>, Jialin Li<sup>2</sup>, Carl Wieman<sup>2</sup>, Leono
 
 This study examines how a learning progression (LP) framework can adapt LLMs for formative assessment of open-ended math-science sensemaking responses. We developed LP-aligned prompts for scoring and feedback generation, evaluated scoring performance on 191 student responses and feedback quality on a stratified subsample. GPT-5.4 achieved 85.9\% agreement and a weighted kappa of 0.79 with human scores. Feedback evaluation across five pedagogical dimensions indicated strong overall quality. Findings demonstrate the promise of grounding LLM-based formative assessment in LP frameworks.
 
-## When Caring Costs Precision: Evaluating Anxiety-Framed LLM Misconception Feedback for Undergraduate Mathematics
+## Does Caring Cost Precision? Evaluating Anxiety-Framed LLM Misconception Feedback for Undergraduate Mathematics
 
-Amanda La Hadi<sup>1</sup>
+Amanda La Hadi<sup>1</sup>, Muhammad Johan Alibasa<sup>1</sup>, A. Taufiq Asyhari<sup>1</sup>
 
-<sup>1</sup> Monash University, Indonesia
+<sup>1</sup> BSD Campus, Monash University, Indonesia
 
-Large language models (LLMs) can generate fluent mathematics feedback, but pedagogical quality extends beyond diagnostic accuracy. This study audits anxiety-conditioned LLM misconception feedback for emerging-adult learners, comparing a strict diagnostic prompt with personalised anxiety-framed variants. Across 270 English outputs, the strict prompt achieved 100% diagnostic accuracy, while anxiety-framed prompts showed small but consistent drops. All paired disagreements moved in the same direction: correct diagnoses under the strict prompt were sometimes lost after affective personalisation. These findings suggest a cognitive–affective trade-off and support multi-axis evaluation of automated feedback: precision, stability, calibration, and learner-centeredness.
+ Large language models (LLMs) can generate fluent mathematics feedback, but pedagogical quality requires more than diagnostic accuracy. This study audits LLM-generated misconception feedback for emerging adult learners by comparing a strict diagnostic prompt with personalised, anxiety-framed variants. Across 810 English-language outputs, with 270 generated under each of three prompt conditions, diagnostic accuracy was high but varied by prompt design. The strict diagnostic prompt (P3) achieved 90.4\% accuracy, the anxiety-framed prompt (P5) achieved 89.6\%, and the fully integrated prompt (P6) achieved 97.8\%. These findings indicate that incorporating learner context can alter misconception diagnosis, with its effect depending on how affective and diagnostic instructions are integrated. In this study, the observed improvement was substantially greater than the reduction in accuracy.
