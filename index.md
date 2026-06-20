@@ -5,6 +5,9 @@ title: "Pedagogical Evaluation of Automated Feedback Workshop 2026"
 
 **Date:** 28th June 2026
 
+**Location:** Mutlicampus, Room 703
+508 Eonju-ro, Yeoksam-dong, Gangnam-gu, Seoul, South Korea
+
 **Venue:** COEX Convention and Exhibition Center, South Korea — co-located with The Festival of Learning 2026 (AIED, EDM and Learning@Scale)
 
 ---
