@@ -4,8 +4,6 @@ title: Program
 permalink: /program/
 ---
 
-PEAF 2026 is a **full-day workshop**. The detailed schedule with accepted papers and exact timings will be published after the review process.
-
 ## Schedule Overview
 
 ### Morning
