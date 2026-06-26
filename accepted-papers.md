@@ -6,6 +6,8 @@ permalink: /accepted-papers/
 
 ## A Combined Strategy for the Pedagogical Evaluation of Automated Feedback: Generation, Decision and Fairness
 
+[PDF](/papers/1.pdf)
+
 Badmavasan Kirouchenassamy<sup>1</sup>, Amel Yessad<sup>1</sup>, Sébastien Jolivet<sup>2</sup>, Sébastien Lallé<sup>1</sup>, Vanda Luengo<sup>1</sup>
 
 <sup>1</sup> LIP6, Sorbonne Université, France &nbsp; <sup>2</sup> IUFE & TECFA, Université de Genève, Switzerland
@@ -14,6 +16,8 @@ Automated feedback is increasingly used in digital learning environments, yet it
 
 ## Beyond Surface Human-Likeness: AI–Mentor Feedback Alignment, Pedagogical Adaptation, and Student Engagement in Longitudinal Learning Data
 
+[PDF](/papers/2.pdf)
+
 Jing Fan<sup>1</sup>, Jiseon Kim<sup>2</sup>, Kimia Abedini<sup>1</sup>, Daniel Koch-Truhponen<sup>1</sup>, Charles Koutcheme<sup>1</sup>, Juho Leinonen<sup>1</sup>
 
 <sup>1</sup> Aalto University, Finland &nbsp; <sup>2</sup> KAIST Global Institute for Talented Education, South Korea
@@ -21,6 +25,8 @@ Jing Fan<sup>1</sup>, Jiseon Kim<sup>2</sup>, Kimia Abedini<sup>1</sup>, Daniel 
 Automated feedback is often evaluated by comparing it with human feedback, but surface resemblance may be an insufficient proxy for pedagogical quality. This extended abstract examines AI--mentor feedback alignment in the \textit{Anonymized} program, a 10-week online science program for underserved gifted elementary students. The dataset includes 920 student-week observations from 92 students, with AI-generated feedback, AI next-session guidance, mentor-refined feedback, task scores, and participation records. We compared AI and mentor feedback using string similarity, token overlap, TF-IDF cosine similarity, sentence-embedding semantic similarity, and traditional lexicon-based sentiment analysis with TextBlob and VADER. Results show low surface similarity but moderate-to-high semantic similarity, suggesting that mentors often rewrote AI feedback while preserving its core meaning. TextBlob indicated a positive mentor-minus-AI shift, while VADER suggested that both AI and mentor feedback were already highly positive. Adaptation also differed by instructional group: Basic group students received feedback that was less similar to AI output and more positively reframed than Advanced group students. These findings suggest that automated feedback evaluation should move beyond surface human-likeness and consider semantic preservation, pedagogical adaptation, affective tone, learner level, and engagement-related indicators.
 
 ## Evaluating and Interpreting Gender Bias in LLM Feedback: Span-Level Embedding-Based Evidence from Automated Essay Feedback
+
+[PDF](/papers/3.pdf)
 
 Yishan Du<sup>1</sup>, Maria Perez Ortiz<sup>1</sup>, Mutlu Cukurova<sup>1</sup>
 
@@ -31,6 +37,8 @@ This paper addresses this challenge by proposing a span-level embedding-based ev
 
 ## Evaluating the Pedagogical Quality of LLM-Generated Feedback: A Criterion-Based and Comparative Study
 
+[PDF](/papers/4.pdf)
+
 Harvey Ngoe Kolle<sup>1</sup>, Carrie Demmans Epp<sup>1</sup>, Amna Liaqat<sup>2</sup>, Maria Cutumisu<sup>3</sup>
 
 <sup>1</sup> University of Alberta, Canada &nbsp; <sup>2</sup> George Mason University, United States &nbsp; <sup>3</sup> McGill University, Canada
@@ -38,6 +46,8 @@ Harvey Ngoe Kolle<sup>1</sup>, Carrie Demmans Epp<sup>1</sup>, Amna Liaqat<sup>2
 Evaluating automated feedback on pedagogical grounds requires more than a single holistic judgment. We developed a multi-dimension 14-item rating instrument grounded in formative feedback theory and used it to compare feedback from a multi-agent system, a single-agent system, and an instructor. Eighteen evaluators---instructors and pre-service teachers---rated and ranked 54 feedback instances that were tied to adult English language learner writing. Both automated conditions received substantially higher scores than human feedback. The only significant difference between the two automated conditions was on supportive tone, where the multi-agent condition received higher ratings than the single-agent condition. These results show that a multidimensional approach identifies differences in feedback quality that a single overall rating could miss.
 
 ## Revision-Loop Behavior and Learning Outcomes under Voluntary AI Formative Feedback in an Undergraduate Statistics Course
+
+[PDF](/papers/5.pdf)
 
 Lifeng Han<sup>1</sup>
 
@@ -47,6 +57,8 @@ We report a single-section pilot ($n{=}63$) of an instructor-built AI grader-and
 
 ## Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle
 
+[PDF](/papers/6.pdf)
+
 Yeon Su Park<sup>1</sup>, Sieun Kim<sup>2</sup>, Keighley Overbay<sup>3</sup>, Seoyoung Kim<sup>1</sup>, Sewook Wee<sup>4</sup>, Daho Jung<sup>1</sup>, Juho Kim<sup>1</sup>
 
 <sup>1</sup> Korea Advanced Institute of Science and Technology, South Korea &nbsp; <sup>2</sup> University of Michigan, United States &nbsp; <sup>3</sup> Samsung Research, South Korea &nbsp; <sup>4</sup> Ringle, United States
@@ -54,6 +66,8 @@ Yeon Su Park<sup>1</sup>, Sieun Kim<sup>2</sup>, Keighley Overbay<sup>3</sup>, S
 The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, providing automated feedback by analyzing tutors' lessons, and surveyed 36 tutors. Our findings reveal that while tutors perceived automated feedback more negatively than learner feedback, they found it useful for self-monitoring and understanding platform expectations, though discrepancies between them often caused confusion. Based on these insights, we propose design considerations for feedback systems for online educational gig platforms at scale.
 
 ## The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
+
+[PDF](/papers/7.pdf)
 
 Moiz Imran<sup>1</sup>, Sahan Bulathwela<sup>1</sup>
 
@@ -63,6 +77,8 @@ Automated feedback systems that rely on answer correctness will reinforce, rathe
 
 ## Using a Learning Progression Framework to Guide LLM-Based Formative Assessment in STEM Education
 
+[PDF](/papers/8.pdf)
+
 Karen D. Wang<sup>1</sup>, Jialin Li<sup>2</sup>, Carl Wieman<sup>2</sup>, Leonora Kaldaras<sup>3</sup>
 
 <sup>1</sup> San Jose State University, United States &nbsp; <sup>2</sup> Stanford University, United States &nbsp; <sup>3</sup> University of Houston, United States
@@ -70,6 +86,8 @@ Karen D. Wang<sup>1</sup>, Jialin Li<sup>2</sup>, Carl Wieman<sup>2</sup>, Leono
 This study examines how a learning progression (LP) framework can adapt LLMs for formative assessment of open-ended math-science sensemaking responses. We developed LP-aligned prompts for scoring and feedback generation, evaluated scoring performance on 191 student responses and feedback quality on a stratified subsample. GPT-5.4 achieved 85.9% agreement and a weighted kappa of 0.79 with human scores. Feedback evaluation across five pedagogical dimensions indicated strong overall quality. Findings demonstrate the promise of grounding LLM-based formative assessment in LP frameworks.
 
 ## Does Caring Cost Precision? Evaluating Anxiety-Framed LLM Misconception Feedback for Undergraduate Mathematics
+
+[PDF](/papers/9.pdf)
 
 Amanda La Hadi<sup>1</sup>, Muhammad Johan Alibasa<sup>1</sup>, A. Taufiq Asyhari<sup>1</sup>
 
