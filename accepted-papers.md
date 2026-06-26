@@ -6,7 +6,7 @@ permalink: /accepted-papers/
 
 ## A Combined Strategy for the Pedagogical Evaluation of Automated Feedback: Generation, Decision and Fairness
 
-[PDF](/papers/1.pdf)
+[PDF](/papers/paper1.pdf)
 
 Badmavasan Kirouchenassamy<sup>1</sup>, Amel Yessad<sup>1</sup>, Sébastien Jolivet<sup>2</sup>, Sébastien Lallé<sup>1</sup>, Vanda Luengo<sup>1</sup>
 
@@ -16,7 +16,7 @@ Automated feedback is increasingly used in digital learning environments, yet it
 
 ## Beyond Surface Human-Likeness: AI–Mentor Feedback Alignment, Pedagogical Adaptation, and Student Engagement in Longitudinal Learning Data
 
-[PDF](/papers/2.pdf)
+[PDF](/papers/paper2.pdf)
 
 Jing Fan<sup>1</sup>, Jiseon Kim<sup>2</sup>, Kimia Abedini<sup>1</sup>, Daniel Koch-Truhponen<sup>1</sup>, Charles Koutcheme<sup>1</sup>, Juho Leinonen<sup>1</sup>
 
@@ -26,7 +26,7 @@ Automated feedback is often evaluated by comparing it with human feedback, but s
 
 ## Evaluating and Interpreting Gender Bias in LLM Feedback: Span-Level Embedding-Based Evidence from Automated Essay Feedback
 
-[PDF](/papers/3.pdf)
+[PDF](/papers/paper3.pdf)
 
 Yishan Du<sup>1</sup>, Maria Perez Ortiz<sup>1</sup>, Mutlu Cukurova<sup>1</sup>
 
@@ -37,7 +37,7 @@ This paper addresses this challenge by proposing a span-level embedding-based ev
 
 ## Evaluating the Pedagogical Quality of LLM-Generated Feedback: A Criterion-Based and Comparative Study
 
-[PDF](/papers/4.pdf)
+[PDF](/papers/paper4.pdf)
 
 Harvey Ngoe Kolle<sup>1</sup>, Carrie Demmans Epp<sup>1</sup>, Amna Liaqat<sup>2</sup>, Maria Cutumisu<sup>3</sup>
 
@@ -47,7 +47,7 @@ Evaluating automated feedback on pedagogical grounds requires more than a single
 
 ## Revision-Loop Behavior and Learning Outcomes under Voluntary AI Formative Feedback in an Undergraduate Statistics Course
 
-[PDF](/papers/5.pdf)
+[PDF](/papers/paper5.pdf)
 
 Lifeng Han<sup>1</sup>
 
@@ -57,7 +57,7 @@ We report a single-section pilot ($n{=}63$) of an instructor-built AI grader-and
 
 ## Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle
 
-[PDF](/papers/6.pdf)
+[PDF](/papers/paper6.pdf)
 
 Yeon Su Park<sup>1</sup>, Sieun Kim<sup>2</sup>, Keighley Overbay<sup>3</sup>, Seoyoung Kim<sup>1</sup>, Sewook Wee<sup>4</sup>, Daho Jung<sup>1</sup>, Juho Kim<sup>1</sup>
 
@@ -67,7 +67,7 @@ The rise of online tutoring platforms in the gig economy has made education more
 
 ## The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 
-[PDF](/papers/7.pdf)
+[PDF](/papers/paper7.pdf)
 
 Moiz Imran<sup>1</sup>, Sahan Bulathwela<sup>1</sup>
 
@@ -77,7 +77,7 @@ Automated feedback systems that rely on answer correctness will reinforce, rathe
 
 ## Using a Learning Progression Framework to Guide LLM-Based Formative Assessment in STEM Education
 
-[PDF](/papers/8.pdf)
+[PDF](/papers/paper8.pdf)
 
 Karen D. Wang<sup>1</sup>, Jialin Li<sup>2</sup>, Carl Wieman<sup>2</sup>, Leonora Kaldaras<sup>3</sup>
 
@@ -87,7 +87,7 @@ This study examines how a learning progression (LP) framework can adapt LLMs for
 
 ## Does Caring Cost Precision? Evaluating Anxiety-Framed LLM Misconception Feedback for Undergraduate Mathematics
 
-[PDF](/papers/9.pdf)
+[PDF](/papers/paper9.pdf)
 
 Amanda La Hadi<sup>1</sup>, Muhammad Johan Alibasa<sup>1</sup>, A. Taufiq Asyhari<sup>1</sup>
 
