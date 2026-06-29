@@ -67,7 +67,7 @@ The rise of online tutoring platforms in the gig economy has made education more
 
 ## The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 
-[PDF](/papers/paper7.pdf)
+[PDF](/papers/paper7.pdf) [Slides](/slides/paper7.pdf)
 
 Moiz Imran<sup>1</sup>, Sahan Bulathwela<sup>1</sup>
 
