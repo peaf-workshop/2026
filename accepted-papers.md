@@ -47,7 +47,7 @@ Evaluating automated feedback on pedagogical grounds requires more than a single
 
 ## Revision-Loop Behavior and Learning Outcomes under Voluntary AI Formative Feedback in an Undergraduate Statistics Course
 
-[PDF](/papers/paper5.pdf)
+[PDF](/papers/paper5.pdf) [Slides](/slides/paper5-slides.pdf)
 
 Lifeng Han<sup>1</sup>
 
