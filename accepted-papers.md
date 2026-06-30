@@ -6,7 +6,7 @@ permalink: /accepted-papers/
 
 ## A Combined Strategy for the Pedagogical Evaluation of Automated Feedback: Generation, Decision and Fairness
 
-[PDF](/papers/paper1.pdf)
+[PDF](/papers/paper1.pdf) [Slides](/slides/paper1-slides.pdf)
 
 Badmavasan Kirouchenassamy<sup>1</sup>, Amel Yessad<sup>1</sup>, Sébastien Jolivet<sup>2</sup>, Sébastien Lallé<sup>1</sup>, Vanda Luengo<sup>1</sup>
 
@@ -16,7 +16,7 @@ Automated feedback is increasingly used in digital learning environments, yet it
 
 ## Beyond Surface Human-Likeness: AI–Mentor Feedback Alignment, Pedagogical Adaptation, and Student Engagement in Longitudinal Learning Data
 
-[PDF](/papers/paper2.pdf)
+[PDF](/papers/paper2.pdf) [Slides](/slides/paper2-slides.pdf)
 
 Jing Fan<sup>1</sup>, Jiseon Kim<sup>2</sup>, Kimia Abedini<sup>1</sup>, Daniel Koch-Truhponen<sup>1</sup>, Charles Koutcheme<sup>1</sup>, Juho Leinonen<sup>1</sup>
 
@@ -26,7 +26,7 @@ Automated feedback is often evaluated by comparing it with human feedback, but s
 
 ## Evaluating and Interpreting Gender Bias in LLM Feedback: Span-Level Embedding-Based Evidence from Automated Essay Feedback
 
-[PDF](/papers/paper3.pdf)
+[PDF](/papers/paper3.pdf) [Slides](/slides/paper3-slides.pdf)
 
 Yishan Du<sup>1</sup>, Maria Perez Ortiz<sup>1</sup>, Mutlu Cukurova<sup>1</sup>
 
@@ -87,7 +87,7 @@ This study examines how a learning progression (LP) framework can adapt LLMs for
 
 ## Does Caring Cost Precision? Evaluating Anxiety-Framed LLM Misconception Feedback for Undergraduate Mathematics
 
-[PDF](/papers/paper9.pdf)
+[PDF](/papers/paper9.pdf) [Slides](/slides/paper9-slides.pdf)
 
 Amanda La Hadi<sup>1</sup>, Muhammad Johan Alibasa<sup>1</sup>, A. Taufiq Asyhari<sup>1</sup>
 
