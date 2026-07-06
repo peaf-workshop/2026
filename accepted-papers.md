@@ -37,7 +37,7 @@ This paper addresses this challenge by proposing a span-level embedding-based ev
 
 ## Evaluating the Pedagogical Quality of LLM-Generated Feedback: A Criterion-Based and Comparative Study
 
-[PDF](/papers/paper4.pdf)
+[PDF](/papers/paper4.pdf) [Slides](/slides/paper4-slides.pdf)
 
 Harvey Ngoe Kolle<sup>1</sup>, Carrie Demmans Epp<sup>1</sup>, Amna Liaqat<sup>2</sup>, Maria Cutumisu<sup>3</sup>
 
