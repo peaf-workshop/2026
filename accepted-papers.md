@@ -67,7 +67,7 @@ The rise of online tutoring platforms in the gig economy has made education more
 
 ## The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 
-[PDF](/papers/paper7.pdf) [Slides](/slides/paper7.pdf)
+[PDF](/papers/paper7.pdf) [Slides](/slides/paper7-slides.pdf)
 
 Moiz Imran<sup>1</sup>, Sahan Bulathwela<sup>1</sup>
 
@@ -77,7 +77,7 @@ Automated feedback systems that rely on answer correctness will reinforce, rathe
 
 ## Using a Learning Progression Framework to Guide LLM-Based Formative Assessment in STEM Education
 
-[PDF](/papers/paper8.pdf) [Slides](/slides/paper7.pdf)
+[PDF](/papers/paper8.pdf) [Slides](/slides/paper8-slides.pdf)
 
 Karen D. Wang<sup>1</sup>, Jialin Li<sup>2</sup>, Carl Wieman<sup>2</sup>, Leonora Kaldaras<sup>3</sup>
 
