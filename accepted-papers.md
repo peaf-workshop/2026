@@ -77,7 +77,7 @@ Automated feedback systems that rely on answer correctness will reinforce, rathe
 
 ## Using a Learning Progression Framework to Guide LLM-Based Formative Assessment in STEM Education
 
-[PDF](/papers/paper8.pdf)
+[PDF](/papers/paper8.pdf) [Slides](/slides/paper7.pdf)
 
 Karen D. Wang<sup>1</sup>, Jialin Li<sup>2</sup>, Carl Wieman<sup>2</sup>, Leonora Kaldaras<sup>3</sup>
 
