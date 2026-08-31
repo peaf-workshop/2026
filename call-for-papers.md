@@ -10,7 +10,7 @@ PEAF 2026 invites submissions on the pedagogical evaluation of automated feedbac
 
 **Short Papers** — up to 4 pages (excluding references).
 
-Submissions may be work-in-progress or position papers. All accepted submissions will be published in [CEUR-WS](https://ceur-ws.org/) proceedings, a free open-source publishing service.
+Submissions may be work-in-progress or position papers. We aim for all accepted submissions to be published in [CEUR-WS](https://ceur-ws.org/) proceedings, a free open-source publishing service.
 
 ## Topics
 
@@ -44,7 +44,7 @@ Submissions are handled via **EasyChair**: [here](https://easychair.org/conferen
 
 ## Proceedings
 
-All accepted submissions will be published in [CEUR-WS](https://ceur-ws.org/) proceedings — a free, open-access publishing service widely indexed in DBLP and Scopus.
+We aim for all accepted submissions to be published in [CEUR-WS](https://ceur-ws.org/) proceedings — a free, open-access publishing service widely indexed in DBLP and Scopus.
 
 Camera-ready instructions will be sent to authors upon acceptance notification.
 
